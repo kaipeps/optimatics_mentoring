@@ -3,7 +3,7 @@ const {
   searchRow,
   getPartNumbers,
   sumPartNumbers
-} = require('./day3');
+} = require('./gear_ratios');
 
 const testData = readTxtFile('day3/test_data.txt');
 

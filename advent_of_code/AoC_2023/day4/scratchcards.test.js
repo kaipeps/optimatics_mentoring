@@ -8,7 +8,7 @@ const {
   initialiseDeck,
   processCards,
   countFinalDeck
-} = require('./day4');
+} = require('./scratchcards');
 
 const testData = readTxtFile('day4/test_data.txt');
 
